@@ -19,5 +19,11 @@ git commit -m "update notes"
 git push
 ```
 
+```
+git config --global http.proxy http://127.0.0.1:7890
+git config --global https.proxy http://127.0.0.1:7890
+```
+
+
 111
 待补充
