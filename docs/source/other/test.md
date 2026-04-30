@@ -11,5 +11,13 @@ start docs\build\html\index.html
 sphinx-autobuild -a -E docs/source docs/build/html
 ```
 
+```bat
+cd /d G:\docs_site
+git status
+git add .
+git commit -m "update notes"
+git push
+```
+
 111
 待补充
