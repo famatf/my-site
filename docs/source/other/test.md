@@ -13,24 +13,16 @@ sphinx-autobuild -a -E docs/source docs/build/html
 
 ```bat
 cd /d G:\docs_site
-git status
+git pull --rebase origin main
 git add .
 git commit -m "update notes"
 git push
 ```
 
-<<<<<<< HEAD
 ```
-=======
-```bat
->>>>>>> fee482a (update notes)
 git config --global http.proxy http://127.0.0.1:7890
 git config --global https.proxy http://127.0.0.1:7890
 ```
 
-<<<<<<< HEAD
-
-=======
->>>>>>> fee482a (update notes)
 111
 待补充
