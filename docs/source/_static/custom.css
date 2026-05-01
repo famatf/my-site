@@ -1,0 +1,9 @@
+.custom-footer-links {
+  margin-top: 0.8rem;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.custom-footer-links a {
+  text-decoration: none;
+}

@@ -53,7 +53,7 @@ other/test
 ```{toctree}
 :hidden:
 :maxdepth: 1
-:caption: 关于
+:caption: 本站
 
-intro
+about
 ```
