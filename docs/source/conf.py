@@ -42,11 +42,10 @@ myst_enable_extensions = [
 ]
 
 html_baseurl = 'https://famatf.com/'
-
 html_css_files = ["custom.css"]
-
 html_favicon = "_static/favicon.ico"
-
 html_js_files = [
     "custom-footer.js",
 ]
+
+html_last_updated_fmt = "%Y-%m-%d %H:%M"
