@@ -7,3 +7,8 @@
 .custom-footer-links a {
   text-decoration: none;
 }
+
+.home-courier,
+.home-courier * {
+  font-family: "Courier New", Courier, monospace;
+}
