@@ -13,11 +13,40 @@
   font-family: "Courier New", Courier, monospace;
 }
 
-a.navbar-brand,
-.navbar-brand .site-title,
+.navbar-brand,
+
+.navbar-brand *,
+
+.sidebar-brand,
+
+.sidebar-brand *,
+
 .sidebar-brand-text,
-.wy-side-nav-search > a {
+
+.sidebar-brand-text *,
+
+.site-title,
+
+.site-title *,
+
+.logo__title,
+
+.logo__title *,
+
+.bd-header .navbar-brand,
+
+.bd-header .navbar-brand *,
+
+.bd-sidebar-primary .navbar-brand,
+
+.bd-sidebar-primary .navbar-brand *,
+
+.wy-side-nav-search > a,
+
+.wy-side-nav-search > a * {
+
   font-family: "Courier New", Courier, monospace !important;
+
   font-weight: bold !important;
 
 }
