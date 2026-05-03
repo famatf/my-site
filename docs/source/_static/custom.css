@@ -12,3 +12,12 @@
 .home-courier * {
   font-family: "Courier New", Courier, monospace;
 }
+
+a.navbar-brand,
+.navbar-brand .site-title,
+.sidebar-brand-text,
+.wy-side-nav-search > a {
+  font-family: "Courier New", Courier, monospace !important;
+  font-weight: bold !important;
+
+}
