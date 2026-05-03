@@ -13,40 +13,23 @@
   font-family: "Courier New", Courier, monospace;
 }
 
-.navbar-brand,
-
-.navbar-brand *,
 
 .sidebar-brand,
-
 .sidebar-brand *,
-
 .sidebar-brand-text,
-
 .sidebar-brand-text *,
-
+.mobile-header-center,
+.mobile-header-center *,
+.mobile-header-title,
+.mobile-header-title *,
+.topbar-title,
+.topbar-title *,
+.header-center,
+.header-center *,
+.navbar-brand,
+.navbar-brand *,
 .site-title,
-
-.site-title *,
-
-.logo__title,
-
-.logo__title *,
-
-.bd-header .navbar-brand,
-
-.bd-header .navbar-brand *,
-
-.bd-sidebar-primary .navbar-brand,
-
-.bd-sidebar-primary .navbar-brand *,
-
-.wy-side-nav-search > a,
-
-.wy-side-nav-search > a * {
-
+.site-title * {
   font-family: "Courier New", Courier, monospace !important;
-
   font-weight: bold !important;
-
 }
