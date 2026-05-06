@@ -1,9 +1,6 @@
 ```{container} home-courier
 
 
----
-
-
 ![首页图片](images/nerd.png)
 
 <audio controls>
@@ -11,7 +8,6 @@
     浏览器不支持 audio 标签。
 </audio>
 
----
 
 <br>
 
@@ -21,7 +17,6 @@ This silly page is for showcasing my favorite quotes. So there is a nerd emoji. 
 
 For more infomation, click anywhere in the left index column. This page and my website are still under construction, I am very sorry for myself. Really.
 
----
 
 >Evidence is always partial. Facts are not truth, though they are part of it – information is not knowledge. And history is not the past – it is the method we have evolved of organising our ignorance of the past. It’s the record of what’s left on the record. It’s the plan of the positions taken, when we to stop the dance to note them down. It’s what’s left in the sieve when the centuries have run through it – a few stones, scraps of writing, scraps of cloth. It is no more “the past” than a birth certificate is a birth, or a script is a performance, or a map is a journey. It is the multiplication of the evidence of fallible and biased witnesses, combined with incomplete accounts of actions not fully understood by the people who performed them. It’s no more than the best we can do, and often it falls short of that.
 >
@@ -32,7 +27,6 @@ For more infomation, click anywhere in the left index column. This page and my w
 > Education is the kindling of a flame, not the filling of a vessel.  
 > — Socrates
 
----
 
 
 ```{toctree}
@@ -40,7 +34,8 @@ For more infomation, click anywhere in the left index column. This page and my w
 :maxdepth: 1
 :caption: 笔记
 
-solid/heat-capacity
+notes/heat-capacity
+notes/irrep
 ```
 
 ```{toctree}
@@ -50,14 +45,5 @@ solid/heat-capacity
 
 other/test
 ```
-
-```{toctree}
-:hidden:
-:maxdepth: 1
-:caption: 本站
-
-about
-```
-
 
 ```
