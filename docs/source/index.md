@@ -36,6 +36,8 @@ For more infomation, click anywhere in the left index column. This page and my w
 
 notes/heat-capacity
 notes/irrep
+notes/irrep2
+notes/newrep
 ```
 
 ```{toctree}

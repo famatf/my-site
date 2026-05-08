@@ -6,11 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Situs Interretialis Famae'
+project = 'Archivum Famae'
 copyright = '2026, famatf'
 author = 'famatf'
 release = ''
-html_title = 'Situs Interretialis Famae'
+html_title = 'Archivum Famae'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

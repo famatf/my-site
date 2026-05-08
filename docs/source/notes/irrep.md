@@ -1,5 +1,19 @@
 # 群的不可约表示
 
+## 总结
+
+* 正交定理： $\boxed{\sum_{R\in G}[D^i(R)_{\mu\nu}]^*D^j(R)_{\mu'\nu'}=\frac{g}{m_i}\delta_{ij}\delta_{\mu\mu'}\delta_{\nu\nu'}}$
+* 所有不等价不可约表示的维数的平方和不大于群的阶： $\boxed{\sum_i m_i^2 \le g}$
+* 特征标正交关系： $\boxed{\chi^i(R)=\operatorname{Tr}D^i(R)=\sum_\mu D^i(R)_{\mu\mu}}$
+* 所有不等价不可约表示个数不大于共轭类个数 $\boxed{\sum_i 1 \le g_c}$
+* 两表示等价 $\iff$ 特征标相同
+* $\sum_{R\in G}[\chi(R)]^*\chi(R)=g \Longrightarrow$ 不可约表示
+* 所有一维表示均不可约，因为 $|\chi(R)|=1$
+* 非恒等的不可约表示，根据正交关系，$\sum_R \chi(R)=0$
+
+---
+
+### 不可约表示
 
 设 $D(G)=\{D(R)\}$ 是群 $G$ 在 $n$ 维表示空间 $V_n$ 上的一个表示。如果 $V_n$ 中不存在关于群 $G$ 的非平庸不变子空间 $V_m$，其中 $m<n$ ，那么 $D(G)$ 就是不可约表示。
 
@@ -289,7 +303,7 @@ $$
 
 $$
 D(R)\simeq D'(R)
-\Longleftrightarrow
+\iff
 \chi(R)=\chi'(R),\ \forall R\in G
 $$
 
