@@ -8,29 +8,27 @@
   text-decoration: none;
 }
 
-.home-courier,
-.home-courier * {
-  font-family: "Courier New", Courier, monospace;
-    font-weight: bold !important;
+.home-serif,
+.home-serif * {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif !important;
+  font-size: 1.15rem !important;
 }
 
-
 .sidebar-brand,
-.sidebar-brand *,
 .sidebar-brand-text,
-.sidebar-brand-text *,
 .mobile-header-center,
-.mobile-header-center *,
 .mobile-header-title,
-.mobile-header-title *,
 .topbar-title,
-.topbar-title *,
 .header-center,
-.header-center *,
 .navbar-brand,
-.navbar-brand *,
-.site-title,
-.site-title * {
-  font-family: "Trebuchet MS", Arial, sans-serif !important;
-  font-weight: bold !important;
+.site-title {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif !important;
+  font-weight: 700 !important;
+  font-size: 1.4rem !important;
+}
+
+.about-serif,
+.about-serif * {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif !important;
+  font-size: 1.15rem !important;
 }

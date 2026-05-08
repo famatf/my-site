@@ -1,7 +1,8 @@
-```{container} home-courier
+```{container} home-serif
 
-
-![首页图片](images/nerd.png)
+<br>
+<br>
+<br>
 
 <audio controls>
   <source src="_static/audio/nerd.mp3" type="audio/mpeg">
@@ -10,22 +11,38 @@
 
 
 <br>
+<br>
 
-This silly page is for showcasing my favorite quotes. So there is a nerd emoji. And also, a funny nerd sound effect. Enjoy. 
+*There is a nerd emoji below. And also, a funny nerd sound effect above. Enjoy.*
+
+I am an introvert. This website is my notebook. There may be notes, fragments, and things I forgot why I wrote.
+Nothing here is meant to be complete. Some pages may look broken. Some ideas may also look broken. I keep them here because otherwise they will disappear.
 
 <br>
 
-For more infomation, click anywhere in the left index column. This page and my website are still under construction, I am very sorry for myself. Really.
-
-
->Evidence is always partial. Facts are not truth, though they are part of it – information is not knowledge. And history is not the past – it is the method we have evolved of organising our ignorance of the past. It’s the record of what’s left on the record. It’s the plan of the positions taken, when we to stop the dance to note them down. It’s what’s left in the sieve when the centuries have run through it – a few stones, scraps of writing, scraps of cloth. It is no more “the past” than a birth certificate is a birth, or a script is a performance, or a map is a journey. It is the multiplication of the evidence of fallible and biased witnesses, combined with incomplete accounts of actions not fully understood by the people who performed them. It’s no more than the best we can do, and often it falls short of that.
+>**"Cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet."**
 >
->― Hilary Mantel
+>*(May be translated as: "I have discovered a truly remarkable proof of this theorem which this margin is too small to contain.")*
+> 
+> <br>
+> 
+> <br>
+>
+> ——— **Pierre de Fermat, *Diophantus' Arithmetica*, 1637**
 
 <br>
 
-> Education is the kindling of a flame, not the filling of a vessel.  
-> — Socrates
+For more information, click anywhere in the left index column. This page, like the rest of my website, is still under construction. I am deeply sorry. Mostly for myself, and my broken English. Really. *So the rest of this website will not be written in English.* This is barely a website. But it is mine.
+
+I should also mention that I do not really know how to code. Most of this website was assembled with AI assistance, blind experimentation, and *the ancient art of copying an error message into chat*. Please adjust your expectations accordingly. That said, the memos themselves are written by me. AI helped me build the website, but the notes collected here are my own.
+
+*Archivum* is singular nominative, and *Famae* is singular genitive. 
+
+Anyway, I will be happy if anything here helps you.
+
+<br>
+
+![首页图片](images/nerd.png)
 
 
 
@@ -46,6 +63,4 @@ notes/newrep
 :caption: 其他
 
 other/test
-```
-
 ```

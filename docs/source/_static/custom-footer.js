@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const links = document.createElement("div");
   links.className = "custom-footer-links";
   links.innerHTML = `
-    <a href="${root}about.html">关于本站</a>
+    <a href="${root}about.html">About</a>
     ·
-    <a href="https://github.com/famatf">GitHub</a>
+   <a href="https://github.com/famatf">GitHub</a>
   `;
 
   bottom.appendChild(links);

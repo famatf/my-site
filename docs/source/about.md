@@ -1,11 +1,19 @@
-# 关于本站
+# *About*
 
-本网站是我的备忘录，仅用来整理备份学习笔记、代码等内容。而并非发牢骚的地方。
+```{container} about-serif
 
-之前我一直在想，为什么那些程序员非要弄个什么博客，有什么意义？后来发现还真有点用处！于是就把经常用到的东西，尤其是指令放进来了。之前用 Obsidian ，但发现网页还是方便些。
 
-* 文档使用 Sphinx + MyST Markdown 构建，公式使用MathJax渲染，部署在 GitHub Pages 上。
 
-<div style="height: 10em;"></div>
+*This page exists because websites usually have an about page.*
 
-**发牢骚的地方——公众号：不能奋飞**
+This website is a small memo archive. I use it to collect selected notes, commands, and formulas that are useful enough to keep somewhere visible. It is not a complete backup of my real notes, and it is certainly not really a diary or a personal blog.
+
+I used to wonder why programmers always wanted to have blogs. What was the point? Later, unfortunately, I found out that they can actually be useful. So I started putting things I often use here, especially commands that I do not want to search for again and again.
+
+I used Obsidian before, but eventually I realized that a website is more convenient for me. It is easier to open and share.
+
+There is no proper way to read this site. Some pages are practical, some are unfinished, and some are only here because ... unknown reasons. Click something on the left and see what happens.
+
+The documentation is built with **Sphinx** and **MyST Markdown**. Mathematical formulas are rendered with **MathJax**, and the site is deployed on **GitHub Pages**.
+
+```
