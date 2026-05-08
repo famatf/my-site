@@ -32,7 +32,7 @@ Nothing here is meant to be complete. Some pages may look broken. Some ideas may
 
 <br>
 
-For more information, click anywhere in the left index column. This page, like the rest of my website, is still under construction. I am deeply sorry. Mostly for myself, and my broken English. Really. *So the rest of this website will not be written in English.* This is barely a website. But it is mine.
+For more information, click anywhere in the left index column. This page, like the rest of my website, is still under construction. I am deeply sorry. Mostly for myself, and my broken English. Really. ***So the rest of this website will not be written in English.*** This is barely a website. But it is mine.
 
 I should also mention that I do not really know how to code. Most of this website was assembled with AI assistance, blind experimentation, and *the ancient art of copying an error message into chat*. Please adjust your expectations accordingly. That said, the memos themselves are written by me. AI helped me build the website, but the notes collected here are my own.
 
